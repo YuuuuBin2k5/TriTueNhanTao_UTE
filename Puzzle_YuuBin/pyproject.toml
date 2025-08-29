@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "puzzle-yuubin"
+version = "0.0.0"
+description = "8-puzzle game"
+authors = [{name = "(local developer)"}]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["pygame>=2.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
