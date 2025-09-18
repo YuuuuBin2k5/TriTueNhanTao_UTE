@@ -1,0 +1,6 @@
+cho giao diện mới chỉ có số, nhập số đầu của puzzle và goal, kiểm tra xem có lời giai hay không, nếu ko, random puzzle để tạo ra trường hợp có đáp án
+1> nút để reset
+2> LƯu lại chạy phương pháp gì : phương pháp thwujc hiện, thời gian chạy, số bước lời giải, không gian đã sinh ra 
++không gian bộ nhớ
+
+Bảng trạng thái chạy của từng phương pháp

@@ -1,0 +1,2 @@
+{"name": "Anh", "algorithm": "Human", "moves": 106, "time_sec": 70.0, "rows": 3, "cols": 3, "timestamp": "2025-09-18T12:59:09"}
+{"name": "anh", "algorithm": "Auto DFS", "moves": 998, "time_sec": 0.0, "rows": 3, "cols": 3, "timestamp": "2025-09-18T13:52:13"}

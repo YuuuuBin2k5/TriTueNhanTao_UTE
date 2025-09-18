@@ -1,4 +1,4 @@
-#Bài 1
+# @title: Bài 2: Bài toán 8 quân hậu
 # @author: Đào Nguyễn Nhật Anh
 # @date: 2025-8-21 
 # @description: Bài 2: Bài toán 8 quân hậu
